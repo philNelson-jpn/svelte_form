@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "author": "Phil",
+            "date": "September 9, 1963",
+            "post": "Phil is a frontend dev that loves to learn all kinds of languages."
+        },
+        {
+            "id": 2,
+            "author": "Jim",
+            "date": "September 31, 1982",
+            "post": "Jim is just your regular ol' Jim. He is 47 years old and lives in a cabin by the lake."
+        },
+        {
+            "id": 3,
+            "author": "Craig",
+            "date": "August 1, 1999",
+            "post": "Craig...Craig, Craig, Craig. What can we say about this lovely fellow. Not much."
+        }
+
+    ]
+}
